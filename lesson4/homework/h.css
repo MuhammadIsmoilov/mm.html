@@ -1,0 +1,82 @@
+.blog{
+    text-align: center;
+    color: black;
+    font-size: 3em;
+}
+.p1{
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+}
+span{
+    font-size: 1em;
+    border: 3px;
+    color: white;
+    background-color: black;
+    border-style: solid;
+    width: 2%;
+    height: 3%;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.proj{
+    border: 2px;
+    width: 60%;
+    border-color: gray;
+    border-style: solid;
+    margin-top: 5%;
+    margin-left: 4%;
+    padding-bottom: 4vh;
+    box-shadow: 3px 3px 5px grey;
+}
+.proj2{
+    border: 2px;
+    width: 60%;
+    border-color: gray;
+    border-style: solid;
+    margin-top: 5%;
+    margin-left: 4%;
+    padding-bottom: 4vh;
+    box-shadow: 3px 3px 5px grey;
+}
+.proj3{
+    border: 2px;
+    width: 30%;
+    border-color: gray;
+    border-style: solid;
+    margin-top: 5%;
+    margin-left: 4%;
+    padding-bottom: 4vh;
+    box-shadow: 3px 3px 5px grey;
+}
+img{
+    width: 100%;
+}
+a{
+    color: black;
+    border: 2px gray solid;
+    text-decoration: none;
+    background-color: white;
+    padding: 2vh;
+    width: 3%;
+    margin-left: 10px;
+}
+.sp1{
+    width: 1%;
+    padding: 1vh;
+    
+}
+h3{
+    margin-left: 600px;
+    
+}
+p{
+    padding: 10px;
+}
+h1,h5{
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+}

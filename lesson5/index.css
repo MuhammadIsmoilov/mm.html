@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    
+}
+a{
+   
+    border: 3px;
+    border-style: solid white ;
+    color: white;
+    text-decoration: none;
+    margin-left: 0px;
+    font-size: 20px;
+    padding: 12px;
+    text-align: center;
+}
+a:hover{
+    background-color: white;
+    color: black;
+}
+h2{
+   
+    border-top-left-radius: 10px ;
+}
+
+.logo{
+    background-color: darkcyan;
+  color: white;
+  padding: 10px;
+
+}
+.logo:hover{
+    background-color: grey;
+}
+.link{
+    display: flex;
+    border-style: solid black;
+    
+}
+.container1{
+    border: 3px;
+    width: 1503px;
+    border-style: solid white;
+    background-color: black;
+    height: 47px
+}
+img{
+    width: 100%;
+   
+}
+.image{
+    border: 3px;
+    border-color:white;
+    border-style: solid;
+    width: 1500px;
+    margin: 0px;
+   
+}
+.h3{
+    border: 3px;
+    background-color: black;
+    border-style: solid;
+    color: white;
+    width: 150px;
+    text-align: center;
+    padding: 20px;
+    font-size: 15px;
+}
+.h3:hover{
+    background-color: darkcyan;
+}
+.team{
+    text-align: center;
+    margin-top: 50px;
+}
+p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+h1{
+    
+    margin-top: 190px;
+    margin-left: -400px;
+    font-size: 20px;
+
+}
+h4{
+    margin-top: 220px;
+    margin-left: -400px;
+    font-size: 20px;
+
+}
+.m1{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 50px; 
+}
+.container2{
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 100px;
+    background-color: grey;
+    display: flex;
+    padding-top:  50px; 
+    padding-bottom: 50px;
+}
+.item{
+   width: 1000px;
+   
+}
+.customer,h3{
+    margin-left: 15px;
+    
+}
+
+.icon{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.our{
+    width: 600px;
+    padding-top: 20px ;
+    width: 20%;
+   padding: 10px;
+   color: white;
+}
+.surat{
+    width: 500px;background-color: white;
+    box-shadow: 1px 1px 5px grey;
+width: 25%;
+}
+.our h3{
+    text-align: center;
+
+}
+.surat h3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+.main3{
+   
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.basik{
+    background-color: black;
+    color: white;
+    width: 100%;
+    
+  
+
+}
+.basic h3{
+   
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 2px 2px 5px grey;
+    text-align: center;
+}
+.basic{
+    width: 30%;
+    border:1px solid grey;
+    border-top: 1px solid grey;
+    
+}
+.basic:hover{
+    box-shadow: 2px 2px 10px grey;
+    box-shadow: -2px -2px 10px grey;
+    
+}
+.sign{
+    background-color:white;
+   width: 100%;
+
+}
+.sign h3{
+    border: 3px solid grey;
+    width: 150px;
+    margin-left: 140px;
+    background-color: grey;
+}
+.sign h3:hover{
+    background-color: darkcyan;
+}

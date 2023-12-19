@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    color: green;
+    font-size: 3em;
+}
+audio{
+    width: 49%;
+    height: 300px;
+}
+body{
+    background-color: rgb(43, 226, 223);
+}
+video{
+    width: 33%;
+    height: 300px;
+}
+a{
+    text-decoration: none;
+}
+img{
+width: 33%;
+}
+#myid{
+    text-align: center;
+    color: yellow;
+}
+a{
+    margin-left: 50px;
+    font-size: 35px;
+}
+.a1{
+    margin-left: 400px;
+    
+}
