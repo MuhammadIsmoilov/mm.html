@@ -19,14 +19,18 @@ h2, p{
 }
 .contener1{
     display: flex;
-    margin-left: -60px;
-    margin-right: 500px;
+   justify-content: space-around;
+    
 }
-.contener1 img{
-    width: 280px;
-    margin-left: 80px;
+.photo{
+    width: 22%;
    
-   
+}
+
+.photo img{
+width: 100%;
+margin-left: 20px;
+margin-top: 50px;
 }
 
 h2{
@@ -78,4 +82,42 @@ h1{
 .p1{
     margin-left:    100px;
     margin-right: 100px;
+}
+.lorem{
+    display: flex;
+    margin-top: 80px;
+}
+.botter{
+    display: flex;
+    justify-content: center;
+}
+.botter img{
+width: 40px;
+height: 40px;
+}
+.botter p{
+    margin-left: -190px;
+    margin-top: -40px;
+}
+.botter fieldset{
+    width: 350px;
+    height: 35px;
+}
+#o1{
+border: none;
+border-bottom: 1px solid gray;
+}
+#o2{
+margin-left: -377px;
+    margin-top: 52px;
+    border: none;
+}
+#o1:hover{
+    background-color: gray;
+}
+#o2:hover{
+    background-color: gray;
+}
+.top{
+    margin-top: -150px;
 }
